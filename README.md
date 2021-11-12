@@ -9,7 +9,7 @@ Bu Repository'de kendim için hazırladığım kişisel web sitem yer almaktadı
 Klonlamak için:
 
 ```bash
-git clone https://github.com/zehraikizler/Frontend-Case.git
+git clone https://github.com/zehraikizler/personal-website.git
 ```
 
 ## Kullanımı
@@ -23,3 +23,7 @@ Projeyi cloneladıktan sonra klasörlerin içerisinde bulunan index.html dosyas�
 + Bootstrap
 + JavaScript
 + Vue.Js
+
+## Live Demo
+
+[live Demo](https://zehraikizler.github.io/personal-website/)
